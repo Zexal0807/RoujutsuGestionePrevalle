@@ -1,0 +1,47 @@
+<html>
+		<meta http-equiv="Content-Security-Policy" content="default-src *; style-src * 'self' 'unsafe-inline' 'unsafe-eval'; script-src * 'self' 'unsafe-inline' 'unsafe-eval';">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1, width=device-width">
+		<style>
+body{
+	background-color: #fff8f8;
+}
+.loader{
+	border-radius: 50%;
+    box-shadow: 0 0 20px red;
+    width: 60vw;
+    height: 60vw;
+    margin-top: 23vh;
+    background-color: #fff;
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70% 55.5%;
+}
+.loader div{
+	border: 4vw solid #f3f3f3;
+    border-radius: 50%;
+    width: 52vw;
+    height: 52vw;
+    animation: spin 2s linear infinite;
+    border-top: 4vw solid #FF000E;
+    box-shadow: inset 0px 0px 20px red;
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+		</style>
+    </head>
+    <body>
+		<center>
+			<div class="loader">
+				<div></div>
+			</div>
+		</center>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js.js"></script>
+    </body>
+</html>

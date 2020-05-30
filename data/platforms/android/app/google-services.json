@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1036831153583",
+    "firebase_url": "https://myasd-99f89.firebaseio.com",
+    "project_id": "myasd-99f89",
+    "storage_bucket": "myasd-99f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036831153583:android:4ffbd598151ce2655ce35a",
+        "android_client_info": {
+          "package_name": "com.myasd.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036831153583-btifruhi0v8kbuc4oveb57s3avmp4u57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDgGWl7CpQ81au-LiAUfCSxYPcLTChSwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036831153583-btifruhi0v8kbuc4oveb57s3avmp4u57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036831153583:android:3444dacb4f33bddc5ce35a",
+        "android_client_info": {
+          "package_name": "com.myasdtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036831153583-btifruhi0v8kbuc4oveb57s3avmp4u57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDgGWl7CpQ81au-LiAUfCSxYPcLTChSwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036831153583-btifruhi0v8kbuc4oveb57s3avmp4u57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036831153583:android:7c71c9827409e37d5ce35a",
+        "android_client_info": {
+          "package_name": "com.roujutsugestioneprevalle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036831153583-btifruhi0v8kbuc4oveb57s3avmp4u57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDgGWl7CpQ81au-LiAUfCSxYPcLTChSwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036831153583-btifruhi0v8kbuc4oveb57s3avmp4u57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
